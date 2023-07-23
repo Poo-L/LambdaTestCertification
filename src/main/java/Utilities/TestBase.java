@@ -23,10 +23,6 @@ public class TestBase {
         ltOptions.put("visual", true);
         ltOptions.put("video", true);
         ltOptions.put("project", "TESTPROJECT");
-        ltOptions.put("name", "TestScenario1");
-        ltOptions.put("name", "TestScenario2");
-        ltOptions.put("name", "TestScenario3");
-        ltOptions.put("tunnel", true);
         ltOptions.put("name", this.getClass().getName());
         ltOptions.put("platformName", "Windows 10");
         ltOptions.put("w3c", true);
