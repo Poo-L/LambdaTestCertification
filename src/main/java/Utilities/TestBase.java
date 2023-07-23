@@ -20,9 +20,9 @@ public class TestBase {
         ltOptions.put("username", "poojaskg78");
         ltOptions.put("accessKey", "FLm2FIHgQah3AXNl6kZht07ab7f2w53tg7CFv5Z91AqeVcRF5i");
         ltOptions.put("build", "LambdaTestCertification_Pool");
+        ltOptions.put("project", "TESTPROJECT");
         ltOptions.put("visual", true);
         ltOptions.put("video", true);
-        ltOptions.put("project", "TESTPROJECT");
         ltOptions.put("name", this.getClass().getName());
         ltOptions.put("platformName", "Windows 10");
         ltOptions.put("w3c", true);
